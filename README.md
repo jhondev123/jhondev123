@@ -33,22 +33,3 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### GitHub Stats ⚡
-<div>
-<a href="https://github.com/jhondev123">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondev123&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhondev123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-### Veja meu Blog 📖
-[Blog](https://jhondev123.github.io)
-
-### Veja meu Portfólio
-[Portfólio](https://jhondev123.github.io/portfolio)
-
-
-### Entre em contato comigo! 📭
-<div>
-<a href="https://www.linkedin.com/in/jhonattan-curtarelli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
